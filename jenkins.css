@@ -1,3 +1,9 @@
 #main-panel {
   background-image: url(http://antengo.com/p/assets/images/global/antengo_logo.png) !important;
 }
+.icon-blue {
+  background-image: url(http://antengo.com/p/assets/images/burgerMenu/sign_up_avatar.png) !important;
+}
+.icon-red {
+  background-image: url(http://antengo.com/p/assets/images/global/no_avatar.png) !important;
+}
